@@ -1,0 +1,23 @@
+body {
+  background-color: #9fd7ff !important;
+}
+
+.container {
+  font-family: "Verdana", sans-serif !important;
+}
+
+.table {
+  margin-top: 50px;
+}
+
+.terminals {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.stickers {
+  text-align: center;
+  display:block;
+  margin:auto;
+  padding: 20px;
+}
